@@ -511,7 +511,7 @@ class ApplicationMain {
 		
 		config = {
 			
-			build: "28",
+			build: "34",
 			company: "HaxeFlixel",
 			file: "EggDrop",
 			fps: 60,

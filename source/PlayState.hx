@@ -35,8 +35,6 @@ class PlayState extends FlxState
 		{
 			egg = new FlxSprite(FlxG.random.int(0, 340),0,"assets/images/egg.png");
 			egg.acceleration.y = FlxG.random.int(50, 400);
-
-			
 			eggGroup.add(egg);
 		}
 
